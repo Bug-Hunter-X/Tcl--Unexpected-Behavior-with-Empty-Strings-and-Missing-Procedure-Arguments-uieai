@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle error in Tcl programming involving the handling of empty strings and procedure arguments. The `bug.tcl` file showcases incorrect usage that results in unexpected behavior.  The `bugSolution.tcl` provides a corrected version with explanations of best practices.
